@@ -1,5 +1,5 @@
 # Belerophon
-**Belerophon** é Jogo 3D Desenvolvido com Java e OpenGL usando Slick-Utils,(usando o tutorial do Thin Matrix do mecanismo LA 3D WJGL).
+**Belerophon** é Jogo 3D Desenvolvido com Java e LWJGL 2 usando Slick-Utils,(usando o tutorial do Thin Matrix do mecanismo LA 3D WJGL).
 
 Jogo em fase de criação.
 
