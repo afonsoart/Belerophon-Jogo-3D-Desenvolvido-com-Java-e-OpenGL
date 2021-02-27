@@ -5,4 +5,4 @@ Jogo em fase de criação.
 
 ![](res/Belerophon.PNG)
 
-Canal do You tube do ThinMatrix de como desenvolver um jogo em 3D:[]()https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP
+Se você é fã de games e tem interesse em saber como programar e como funciona os mecanismo de um jogo, eu indico o canal do You tube do ThinMatrix programador Indie developer de jogos em 3D :[]()https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP
